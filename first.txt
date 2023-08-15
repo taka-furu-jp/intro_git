@@ -1,2 +1,3 @@
 Git training
-Git change
+Git change1
+Git change2
