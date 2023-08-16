@@ -4,3 +4,4 @@ Git change2
 Git change3
 Git change4
 Git change5
+Git change6 diff
